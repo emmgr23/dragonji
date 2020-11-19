@@ -1,4 +1,4 @@
-![img1.png](src)
+<img src="https://github.com/emmgr23/dragonji/blob/gh-pages/img1.png" alt= "dragonji logo">
 
 # Privacy Policy of DragonJi
 ## DragonJi operates the https://emmgr23.github.io/dragonji/ website, which provides the SERVICE.
