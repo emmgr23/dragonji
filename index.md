@@ -1,5 +1,4 @@
-<img src="https://github.com/emmgr23/dragonji/blob/gh-pages/img1.png" alt= "dragonji logo">
-![dbj](/img1.png)
+
 <img src="/img1.png">
 
 # Privacy Policy of DragonJi
