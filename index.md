@@ -1,4 +1,4 @@
-![https://freeimage.host/i/FcTpNj](src)
+![img1](src)
 
 # Privacy Policy of DragonJi
 ## DragonJi operates the https://emmgr23.github.io/dragonji/ website, which provides the SERVICE.
